@@ -1,3 +1,5 @@
 {
-  "script/test01.py::Test_01::()::test_001[1]": true
+  "script/test01.py::Test_01": true,
+  "script/test01.py::Test_01::()::test_001[1]": true,
+  "script/test01.py::Test_01::()::test_abc[2]": true
 }

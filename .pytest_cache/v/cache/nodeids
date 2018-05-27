@@ -1,5 +1,5 @@
 [
-  "script/test01.py::Test_01::()::test_001[1]",
-  "script/test01.py::Test_01::()::test_001[2]",
-  "script/test01.py::Test_01::()::test_001[3]"
+  "script/test01.py::Test_01::()::test_abc[1]",
+  "script/test01.py::Test_01::()::test_abc[2]",
+  "script/test01.py::Test_01::()::test_abc[3]"
 ]
